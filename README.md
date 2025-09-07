@@ -63,8 +63,8 @@ bloodbankmanagement/
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
-   cd blood-bank-management-system
+   git clone https://github.com/PixelCoutureHub/Blood-Donation-Website.git
+   cd Blood-Donation-Website
    ```
 
 2. Install required packages:
