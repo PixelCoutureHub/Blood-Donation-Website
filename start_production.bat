@@ -12,7 +12,7 @@ echo Running database migrations...
 python manage.py migrate
 echo.
 
-echo Creating sample data (if needed)...
+echo Creating sample data (if needed)... //optional you can remove it
 python manage.py create_sample_data
 echo.
 
